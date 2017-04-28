@@ -11,6 +11,6 @@ To use, download documents from wikipedia or other sources into the `en` directo
 $ sh mungee.sh
 ```
 
-This will produced files with nonsensical links in `mungeed`.  These files, however, will have links that are localized to one server.
+This script will copy and transform files from `en` into `munged`.  These newly produced files are documents with links that localized to one server.
 
 
